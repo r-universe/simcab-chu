@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "ifCNVR"]
 	path = ifCNVR
-	url = https://github.com/simcab-chu/ifcnvr
+	url = https://github.com/simcab-chu/ifcnv-r
 	shallow = true
 	subdir = ifCNVR
 	registered = true
